@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://abulitia.github.io/sitemap.html.gz
+Sitemap: https://abulitia.github.io/app/sitemap.html.gz
+Sitemap: https://abulitia.github.io/assets/sitemap.html.gz
+Sitemap: https://abulitia.github.io/css/sitemap.html.gz
+Sitemap: https://abulitia.github.io/includes/sitemap.html.gz
+Sitemap: https://abulitia.github.io/item/sitemap.html.gz
+Sitemap: https://abulitia.github.io/src/sitemap.html.gz
